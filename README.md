@@ -1,5 +1,5 @@
 # Titanic-Survival
-Kaggle project on predicting Titanic Survivors
+Kaggle Competition on predicting Titanic Survivors
 Steps on completing the project:
 1) EDA analysis
 2) Splitting the name feature into its honorific we observe patterns in the survival. 
